@@ -1,0 +1,10 @@
+https://www.rfc-editor.org/rfc/rfc2898
+https://learn.microsoft.com/en-us/dotnet/api/system.security.cryptography.rfc2898derivebytes?view=net-9.0
+https://dspace.mit.edu/handle/1721.1/14709
+https://www.ietf.org/rfc/rfc2898.txt // KDF for rfc2898
+https://cryptobook.nakov.com/mac-and-key-derivation/pbkdf2
+https://docs.python.org/3/library/hashlib.html
+https://learn.microsoft.com/en-us/dotnet/api/system.security.cryptography.aes?view=net-9.0
+https://en.wikipedia.org/wiki/Block_cipher_mode_of_operation#Cipher_block_chaining_(CBC)
+https://learn.microsoft.com/en-us/dotnet/api/system.security.cryptography.icryptotransform.transformfinalblock?view=net-9.0
+https://www.tucows.com/
